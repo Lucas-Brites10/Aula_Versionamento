@@ -1,0 +1,20 @@
+git init ( na pasta que você quer q ocorra o versionamento )
+git add . (( ou git add (nome do arquivo) caso haja mais de um arquivo a ser adicionado no versionamento ))
+
+git status para ver como está o commit do GIT
+
+git commit -m "Nome do commit"
+
+git log ( Para ver os commits que já foram submetidos )
+
+git push origin <nome da branch> ( sempre para subir a nova versão da branch para o github)
+
+git clone (link do repositorio) para clonar os arquivos de um repositorio
+
+OBS: Toda vez que for trabalhar com um projeto que não esteja originalmente na sua maquina local sempre dar ''git pull" para verificar se há uma versão mais recente do projeto.
+
+git branch <nome> ( serve para criar branchs além da main ) -> git checkout <nome da branch> para acessa-la
+
+git merge <branch> ( serve para copiar o arquivo de uma branch para outra)
+
+versão 1.
