@@ -12,6 +12,5 @@ Os temas abordados na aula foram:
             é uma plataforma de hospedagem de código-fonte e arquivos com controles de versão utilizando o Git. 
             Essa hospedagem e alocação de arquivos ocorre de forma remota.
 
-### Sobre o repositorio:
-                        O intuito desse repositorio é armazenar os códigos básicos referentes ao git/github.
+### Sobre o repositorio: o intuito desse repositorio é armazenar os códigos básicos referentes ao git/github.
                     
