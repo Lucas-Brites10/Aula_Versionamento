@@ -17,4 +17,5 @@ git branch <nome> ( serve para criar branchs além da main ) -> git checkout <no
 
 git merge <branch> ( serve para copiar o arquivo de uma branch para outra)
 
-versão 1.
+versão 1.0
+versão 1.1 finalizada
